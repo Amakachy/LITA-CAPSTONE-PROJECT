@@ -32,17 +32,25 @@ The dataset includes the following fields:
 
 ### Tools Used
 1 Micro Soft Excel Download https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
  i For Data Input
+ 
  ii For Analysis
+ 
 iii For Data Cleaning
+
 iv  For Data visualization
 
 2 Microsoft SQL Serve Download here :rhttps://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
  i To manage and querry data
 
 3 Microsoft Power BI Downlord here; https://www.godaddy.com/forsale/microsoftpowerbi.com
+
  i For Data Transformation
+ 
 ii Data modelling
+
 iii To Create reports and dashboards that are collections of visuals.
 
 
