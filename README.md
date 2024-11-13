@@ -100,4 +100,7 @@ Calculate using pivot table:
 -, Percentage of Unit sold and sales by region.
 
 
+![Pivot Table Snapshot]https://github.com/Amakachy/LITA-CAPSTONE-PROJECT/blob/main/Screenshot%20sales%20project.png
+
+
 
