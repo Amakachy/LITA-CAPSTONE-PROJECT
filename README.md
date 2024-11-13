@@ -101,10 +101,10 @@ Calculate using pivot table:
 
 
 ![screenshot Sales Projrct]
-(screenshot sales project.png)
+(screenshot_sales_project.png)
 
 ![Sales Project Pivot]
-(sales project pivot.png)
+(sales_project_pivot.png)
 
 
 
