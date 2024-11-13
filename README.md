@@ -100,7 +100,7 @@ Calculate using pivot table:
 -, Percentage of Unit sold and sales by region.
 
 
-![screenshot Sales Projrct]
+![Screenshot Sales Project]
 (screenshot_sales_project.png)
 
 ![Sales Project Pivot]
