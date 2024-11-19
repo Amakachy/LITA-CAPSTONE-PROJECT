@@ -121,7 +121,6 @@ Calculate using pivot table:
 
 -, Percentage of Unit sold and sales by region.
 
-####  Excel Visualization
 
 
 
