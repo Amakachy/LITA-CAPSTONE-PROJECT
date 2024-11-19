@@ -1,20 +1,42 @@
 # LITA-CAPSTONE-PROJECT
-DOCUMENTATION OF MY CAPSTONE Sales Data PROJECT
 
-## Project Title: LITA Capstone Sales Data
+# Project Title: LITA Capstone Sales Data
 
-### Outline
+## OutlineProject Overview For Sales Data
 
-### Project Overview
+### Measures
+
+### Data Source
+
+### Tools Used
+
+### Data Cleaning and Preparation
+
+### Objectives
+
+### Exploratory Data Analysis
+
+### Excel
+
+### SQL Data Analysis
+
+### Dashboard Overview
+
+### Data Analysis and Insights Generation
+
+### Conclusion
+
+
+#### Project Overview
 This project aims to analyze the sales performance of a retail store by examining key metrics such as top-selling products, regional performance, and customer purchasing trends. Through data analysis, the project will uncover insights that will help optimize inventory management, enhance marketing strategies, and improve overall store performance. The insights derived from this project will guide decision-making to boost sales and customer satisfaction.
 
-### Project Description
+#### Project Description
 
 The primary objective of this project is to evaluate the performance of a retail store by uncovering critical sales data points that influence store operations. The analysis will focus on identifying the top-selling products, evaluating regional sales performance, and understanding trends that drive consumer purchases. The project will employ advanced analytics techniques to explore store sales data, segment performance by region, and pinpoint the factors contributing to high sales.
 
 The outcome of this project will provide actionable insights that will help the store optimize its operations, including better inventory management, tailored marketing efforts, and improved sales forecasting. Ultimately, the project aims to maximize the store’s profitability while improving the overall customer experience.
 
-### Data Sources
+#### Data Sources
 Data used for this project was an excel data provided by the Incubator Hub LITA facilitators, the data was converted to CSV format, before importing to SQL, for easy and seamless analysis.
 
 #### Data Sources
@@ -35,7 +57,7 @@ The dataset includes the following fields:
 
 7 Total Sales: Total amount of sales made for the item
 
-### Tools Used
+#### Tools Used
 1 Micro Soft Excel Download https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
  i For Data Input
@@ -58,12 +80,12 @@ ii Data modelling
 
 iii To Create reports and dashboards that are collections of visuals.
 
-### Data Cleaning and Preparation
+#### Data Cleaning and Preparation
 
 Removing duplicates and eliminated duplicated records to ensure Data Quality Adding New Columns, Added new columns sales and revenue by multipling the quantity of the product purchased by the respective unit price, added an average column for the sales/revenue of products purchased and also added a calculated column for the Marginal profit made in the company over the space of a year and eight months.
 
 
-### Objectives
+#### Objectives
 
 *Retrieve the total sales for each product category.
 
@@ -81,11 +103,11 @@ Removing duplicates and eliminated duplicated records to ensure Data Quality Add
 
 *Identify products with no sales in the last quarter.
 
-### Exploratory Data Analysis
+#### Exploratory Data Analysis
 
 EDA are set of steps used to explore and understand the dataset better, before cleaning and transformation. Rows:9921 Columns: 7 Columns.
 
-### On Excel
+####  Excel
 
 Calculate using pivot table:
 
@@ -103,6 +125,6 @@ Calculate using pivot table:
 ![image](https://github.com/user-attachments/assets/5d7f6132-3c7b-423b-a048-73699eda4aff)
 
 
-### SQL Data Analysis
+#### SQL Data Analysis
 
 
